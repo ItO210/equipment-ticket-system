@@ -1,0 +1,28 @@
+# === OS files ===
+.DS_Store
+Thumbs.db
+
+# === Node.js ===
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# === macOS ===
+*.DS_Store
+
+# === Logs ===
+*.log
+*.out
+*.log.*
+
+# === IDEs/Editors ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === Environment ===
+.env
+.env.* 
