@@ -24,10 +24,10 @@ This repository is a **modified reupload** of the original project developed for
 - **HealthSyncDB/**: MySQL .sql file containing the database schema.
 
 ## Preview
-![1](https://github.com/user-attachments/assets/579e5a29-18f5-474a-92be-4212a9faaa00)
-![2](https://github.com/user-attachments/assets/c3710a3f-a9eb-4c49-8e1c-5c10af5e59ce)
-![3](https://github.com/user-attachments/assets/a8c74960-362f-44e3-a26d-afe6e574d4a3)
-![4](https://github.com/user-attachments/assets/96041e80-a619-46a7-8ff0-c241b6e9bd11)
+![1](https://github.com/user-attachments/assets/849f862c-f2c9-4ca4-93f9-1e7909e19d3b)
+![2](https://github.com/user-attachments/assets/0cc3deda-453a-45cd-9c0a-65ed51c737d4)
+![3](https://github.com/user-attachments/assets/479f6c0b-946b-4a57-9e2c-84d33e97b51b)
+![4](https://github.com/user-attachments/assets/5ab50fea-ab8f-4610-bd83-f68130231c8f)
 
 ## Contributors  
 This project was developed collaboratively by:  
