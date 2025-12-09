@@ -2,7 +2,7 @@
 
 HealthSync is a ticket management system developed for Hospital del Niño Morelense to streamline the reporting and resolution of issues with hospital equipment such as computers, printers, and scanners. Hospital staff can submit tickets through a web form, while technicians and administrators use a Kotlin-based Android app to manage them. Technicians can view, claim, update, and close tickets, providing comments and images as evidence. Administrators can access historical records, view ticket statistics, evaluate technician performance, and manage technician accounts—all within the same mobile interface.
 
-This project was developed on **September 2024**.
+This project was developed in **September 2024**.
 
 ## Disclaimer
 
